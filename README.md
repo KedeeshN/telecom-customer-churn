@@ -31,6 +31,8 @@ The analysis uses the **Telco Customer Churn** dataset containing:
 
 Key variables include `Contract`, `tenure`, `InternetService`, `OnlineSecurity`, `TechSupport`, `MonthlyCharges`, and `TotalCharges`.
 
+**Data Source:** IBM Telco Customer Churn sample dataset. The dataset represents a fictional telecommunications company and is used for educational and analytical modeling purposes.
+
 ## Data Preparation
 
 The raw dataset was imported into **SAS Studio** and reviewed for data-quality and formatting issues.
