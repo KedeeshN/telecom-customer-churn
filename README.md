@@ -2,6 +2,11 @@
 
 An end-to-end predictive analytics project using **SAS Viya** to identify telecommunications customers at risk of churn and translate model results into actionable customer-retention strategies.
 
+## Project Documentation
+
+- [Full Project Report](Kedeesh_Nolan_Telecom_Customer_Churn_Report.pdf)
+- [Final Presentation](Kedeesh_Nolan_Telecom_Customer_Churn_Presentation.pdf)
+
 ## Project Overview
 
 Customer churn is a significant challenge in the telecommunications industry because losing existing customers can increase acquisition costs and reduce long-term revenue. This project explores how customer demographics, service subscriptions, account information, and billing behavior can be used to identify customers who are more likely to discontinue service.
